@@ -7,4 +7,4 @@ Mit meinem Programm ist es möglich deine Körpergrösse von cm in feet umzurech
 - ist nützlich wenn man seine Grösse in feet wissen muss
 - nützlich für deine TikTok foryoupage 
 ## Reflexion
-Ich habe gelernt, wie man verschiedene Programme erstellt. Dazu verwemdet man VS Code. Ich habe die Programme mithilfe von Python geschrieben. 
+Ich habe gelernt, wie man verschiedene Programme erstellt. Dazu verwendet man VS Code. Ich habe die Programme mithilfe von Python geschrieben. 
